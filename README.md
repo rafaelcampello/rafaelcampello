@@ -39,6 +39,11 @@ This GitHub exists to:
 
 ---
 
+### 🏷️ Topics & Areas of Expertise
+`python` • `ai` • `automation` • `telecommunications` • `flask` • `data-analysis` • `open-source` • `cloud` • `engineering`
+
+---
+
 ### 🌐 **Connect**
 📫 [LinkedIn](https://linkedin.com/in/rafaelbcampelloeng)  
 🌍 [Portfolio Website](https://rafaelcampello.github.io) *(coming soon)*  
@@ -83,6 +88,11 @@ Este espaço foi criado para:
 - Publicar versões open source das ferramentas que desenvolvo (analisadores de logs, IA, visão computacional etc.).  
 - Estimular o aprendizado por meio de **forks**, **issues** e **pull requests**.  
 - Compartilhar conhecimento em **inglês e português**, fortalecendo a comunidade global de tecnologia.  
+
+---
+
+### 🏷️ Tópicos e Áreas de Atuação
+`python` • `ia` • `automação` • `telecomunicações` • `flask` • `análise-de-dados` • `código-aberto` • `nuvem` • `engenharia`
 
 ---
 
