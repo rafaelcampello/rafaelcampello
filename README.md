@@ -1,4 +1,3 @@
----------------------------------------**EN English version**---------------------------------------
 # 👋 Hi, I'm Rafael Braga Campello
 
 🎯 **Telecommunications Engineer | Python Developer | AI & Automation Enthusiast**
