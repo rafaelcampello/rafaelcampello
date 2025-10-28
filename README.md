@@ -44,7 +44,7 @@ This GitHub exists to:
 🌍 [Portfolio Website](https://rafaelcampello.github.io) *(coming soon)*  
 💻 [GitHub](https://github.com/rafaelcampello)  
 
----------------------------------------**BR Versão em Português**---------------------------------------
+---------------------------------------**BR Português**---------------------------------------
 # 👋 Olá, sou Rafael Braga Campello
 
 🎯 **Engenheiro de Telecomunicações | Desenvolvedor Python | Entusiasta de IA e Automação**
