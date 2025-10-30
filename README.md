@@ -1,3 +1,7 @@
+> 🚧 **Work in Progress**  
+> This portfolio is being updated with new public repositories and open-source tools.  
+> Stay tuned for upcoming projects and collaborations!
+
 # 👋 Hi, I'm Rafael Braga Campello
 
 🎯 **Telecommunications Engineer | Python Developer | AI & Automation Enthusiast**
@@ -50,6 +54,10 @@ This GitHub exists to:
 💻 [GitHub](https://github.com/rafaelcampello)  
 
 ---------------------------------------**BR Português**---------------------------------------
+> 🚧 **Em Construção**  
+> Este portfólio está sendo atualizado com novos repositórios públicos e ferramentas open-source.  
+> Fique à vontade para acompanhar as próximas atualizações e colaborações!
+
 # 👋 Olá, sou Rafael Braga Campello
 
 🎯 **Engenheiro de Telecomunicações | Desenvolvedor Python | Entusiasta de IA e Automação**
