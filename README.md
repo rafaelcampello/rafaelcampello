@@ -50,7 +50,7 @@ This GitHub exists to:
 
 ### 🌐 **Connect**
 📫 [LinkedIn](https://linkedin.com/in/rafaelbcampelloeng)  
-🌍 [Portfolio Website](https://rafaelcampello.github.io) *(coming soon)*  
+🌍 [Portfolio Website](https://www.rafaelbcampello.com/)
 💻 [GitHub](https://github.com/rafaelcampello)  
 
 ---------------------------------------**BR Português**---------------------------------------
@@ -106,5 +106,5 @@ Este espaço foi criado para:
 
 ### 🌐 **Conecte-se**
 📫 [LinkedIn](https://linkedin.com/in/rafaelbcampelloeng)  
-🌍 [Portfólio Online](https://rafaelcampello.github.io) *(em breve)*  
+🌍 [Portfólio Online](https://www.rafaelbcampello.com/) 
 💻 [GitHub](https://github.com/rafaelcampello)
